@@ -1,0 +1,13 @@
+.notValid{
+  border: 1px solid red;
+}
+.red{
+    color: red;
+}
+.hide{
+    display: none;
+}
+#alertCont{
+  width: 100%;
+  height: 50px;
+}
