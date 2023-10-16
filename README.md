@@ -1,4 +1,4 @@
-# form-validation
+# form-validation (Using JS)
 This repository demonstrates form validation using JavaScript in a simple and straightforward manner.
 
 
